@@ -1,0 +1,18 @@
+[
+	{
+		"ParameterKey": "EnvironmentName",
+		"ParameterValue": "JoshUdacityProject"
+	},
+	{
+		"ParameterKey": "S3IAMRole",
+		"ParameterValue": "JoshUdacityS3ReadOnlyEC2"
+	},
+	{
+		"ParameterKey": "AMIImageID",
+		"ParameterValue": "ami-0747bdcabd34c712a"
+	},
+	{
+		"ParameterKey": "EC2InstanceType",
+		"ParameterValue": "t3.medium"
+	}
+]
